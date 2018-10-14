@@ -1,0 +1,32 @@
+---
+title: "Assignment 1 - Intro & R Examples"
+output: html_document
+---
+
+*Ugurcan Kalenderoglu*
+
+*Oct 14, 2018*
+
+##Introduction
+I work as a Strategy & Project Management Specialist in Media Markt Turkey. On top of the creation of business strategy and supporting board members, strategy department initiate all crucial projects and then either delegate it to the respective stakeholder or complete it by defining all action points, timeplan, responsible person for each tasks. As there is an intense transaction history at individual customer level and huge interaction with suppliers, almost all project requires in-depth data analysis with dirty input. I plan to use my data science skills on some pricing and assortement optimization related projects.
+
+##UseR-2018: Starting with geospatial data in Shiny, and knowing when to stop
+We have more than 70 stores in Turkey and geospatial analytics is one of the attractive topic for me since my job requires always to improve how we evaluate the performance and how can we develop better analytic tools from setting targets to measuring peformances. In this tutorial, speaker explains how he dealed with visualization of 300,000 postcodes in Australia. Learning how Shiny enables using Google Map as an interactive visualization tool and auto-query generation process between map and database is worth to give 15 minutes.
+
+[tutorial](https://www.youtube.com/watch?v=xXqdclBlJTk)
+
+
+##Learn To Create Your Own Datasets: Web Scraping in R
+Consumer electronics retailer is highly competitive sector in Turkey and we need to consider each competitior located in the same shopping mall with us but there is no such database available. It would be great to run code that checks all webpages of shopping malls and lists all stores located in each. This medium article gives practical example on how can we create our own database. rvest is a reletad R package to do this job with simple codes explained in article.
+
+[article](https://towardsdatascience.com/learn-to-create-your-own-datasets-web-scraping-in-r-f934a31748a5)
+
+##Simple Fast Exploratory Data Analysis in R with DataExplorer Package
+As i mentioned before, most of the projects i work on requires in-depth data analysis but data is often unstructured and excel can not serve enough fast when the size is big. So explained in the below article, it would save significant time if you can use R for exploratary data analysis part. DataExplorer package is explained well and i am sure that it will be my regular library as i get used to R.
+
+[article](https://towardsdatascience.com/simple-fast-exploratory-data-analysis-in-r-with-dataexplorer-package-e055348d9619)
+
+##A Gentle Introduction on Market Basket Analysis-Association Rules
+Market basket analysis is another hot topic of retailers. As the competition increases, the offers you make requires more smart & data-driven background. I believe that there is a great opportunity when selecting which products should be promoted together. Article covers detailed analysis using grocery retail data. Apriori algorithm is used and there is also link for implementing it in Python.
+
+[article](https://towardsdatascience.com/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce)
