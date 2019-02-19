@@ -1,7 +1,7 @@
 # The Progress Journal
 
 ## Final Exam
-[There](R_final.pdf) you can find my answers to questions below:
+[There](R_final.pdf) you can find my answers to [these questions](final.pdf).
 
 
 ## Week 4
