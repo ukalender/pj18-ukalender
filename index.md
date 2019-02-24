@@ -1,7 +1,7 @@
 # The Progress Journal
 
 ## Football Data Analysis (Python)
-You can reach my introductory analysis of football events data from 5 biggest European leagues by [Football Data Analysis.html]. I used pandas, numpy and matplotlib.pyplot packages through analysis.
+You can reach my introductory analysis of football events data from 5 biggest European leagues by [clicking there](Football Data Analysis.html). I used pandas, numpy and matplotlib.pyplot packages through analysis.
 
 ## Group Project (R)
 We conducted a group project as a part of Data Analytics Essentials course. Primary goal of this analysis is to find & address the specific patterns that shape the migration dynamics in Turkey.
