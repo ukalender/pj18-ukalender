@@ -11,7 +11,7 @@ We conducted a group project as a part of Data Analytics Essentials course. Prim
 [Turkey Migration Analysis](final.html)
 
 ## Final Exam (R)
-[There](R_final.pdf) you can find my answers to [these questions](final.pdf).
+[There](R_Final.pdf) you can find my answers to [these questions](final.pdf).
 
 
 ## Week 4 (R)
