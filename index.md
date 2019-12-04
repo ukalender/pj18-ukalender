@@ -1,5 +1,8 @@
 # The Progress Journal
 
+## Player Profiling in Football (Python)
+I applied k-means cluster algorithm to the football event data which consist of all actions performed with ball at player level. It is observed that there are 4 different forward clusters who have different playing style. [Click here](Player_Profiling_in_Football.html) to review the analysis.
+
 ## Football Data Analysis (Python)
 You can reach my introductory analysis of football events data from 5 biggest European leagues by [clicking there](Football Data Analysis.html). I used pandas, numpy and matplotlib.pyplot packages through analysis.
 
