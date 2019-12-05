@@ -6,6 +6,9 @@ I applied k-means clustering algorithm to the football event data which consist 
 ## Football Data Analysis (Python)
 You can reach my introductory analysis of football events data from 5 biggest European leagues by clicking [there](Football Data Analysis.html). I used pandas, numpy and matplotlib packages through the analysis.
 
+## House Price Prediction (R)
+I predicted sales price of houses using dataset from Kaggle as a part of my master's degree. Both regression and classification algoirthms were performed using decision tree, random forest, bagging and gradient boosting. You can find details of feature engineering part and comparison of results [here](House_Price_Prediction.pdf). 
+
 ## Market Basket Analysis for E-commerce Transaction Data (R)
 I used the Apriori algorithm to analyze the basket data for e-commerce transactions. [There](Project MA – NoName.html) you can view insights derived from the analysis including quick overview of support, confidence and lift terms.
 
